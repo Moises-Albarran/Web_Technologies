@@ -1,13 +1,1 @@
 # Web_Technologies
-
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>My Site</title>
-</head>
-<body style="padding: 20px;">
-  <h1>Hello, world</h1>
-  <p>This is something new to me. Duh.</p>
-</body>
-</html>
